@@ -112,7 +112,9 @@ This does the same as the baove, but uses a double layer approach. Here only two
 
 ## References
 [**Three-dimensional Segmentation of Trees Through a Flexible Multi-Class Graph Cut Algorithm (MCGC)**][1] Williams, J; Sch&ouml;nlieb, C-B; Swinfield, T; Lee, J; Cai, X; Qie, L and Coomes, D. ArXiv preprint (2019) (in revisions)
+
 [**Area-based vs tree-centric approaches to mapping forest carbon in Southeast Asian forests from airborne laser scanning data**][3] Coomes, D; Dalponte, M; Jucker, T; Asner, G; Banin, L; Burslem, D; Lewis, S; Nilus, R; Philips, O; Phua, M-H and Qie, L. Remote Sensing of Environment (2017)
+
 [**Allometric equations for integrating remote sensing imagery into forest monitoring programmes**][6] Jucker, T. , Caspersen, J. , Chave, J. , Antin, C. , Barbier, N. , Bongers, F. , Dalponte, M. , Ewijk, K. Y., Forrester, D. I., Haeni, M. , Higgins, S. I., Holdaway, R. J., Iida, Y. , Lorimer, C. , Marshall, P. L., Momo, S. , Moncrieff, G. R., Ploton, P. , Poorter, L. , Rahman, K. A., Schlund, M. , Sonké, B. , Sterck, F. J., Trugman, A. T., Usoltsev, V. A., Vanderwel, M. C., Waldner, P. , Wedeux, B. M., Wirth, C. , Wöll, H. , Woods, M. , Xiang, W. , Zimmermann, N. E. and Coomes, D. A. Global Change Biology (2017)
 
 
