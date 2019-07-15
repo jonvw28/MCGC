@@ -19,3 +19,123 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+NB this work contains four items under the copyright of individuals with the
+details of these and their licenses below:
+
+
+
+
+
+1) scripts/MATLAB/utils/DBSCAN
+
+Copyright (c) 2015, Yarpiz (www.yarpiz.com)
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+	  
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in
+      the documentation and/or other materials provided with the distribution
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+
+
+
+2) scripts/MATLAB/utils/lasread
+
+Copyright (c) 2010, Thomas J. Pingel
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The views and conclusions contained in the software and documentation are those
+of the authors and should not be interpreted as representing official policies,
+either expressed or implied, of the <project name> project.
+
+
+
+3) 'indomalaya_tropfor_HR_95.csv'
+
+This was created by Jonathan Williams using the gen_allom.R file in this 
+repository. This was based on the avaialble dataset which was published by
+Jucker et al. in their 2017 paper, for which the full details are listed below.
+
+This dataset which was used in creation of some of the data above was the 
+open-source database created by Jucker et al. in their 2017 paper. It has been 
+shared under a CC BY 4.0 license and any sharing of these data here is shared 
+under the same license. Details of the original work are listed below:
+
+Jucker, T. , Caspersen, J. , Chave, J. , Antin, C. , Barbier, N. , Bongers, F. ,
+Dalponte, M. , Ewijk, K. Y., Forrester, D. I., Haeni, M. , Higgins, S. I.,
+Holdaway, R. J., Iida, Y. , Lorimer, C. , Marshall, P. L., Momo, S. , 
+Moncrieff, G. R., Ploton, P. , Poorter, L. , Rahman, K. A., Schlund, M. , 
+Sonké, B. , Sterck, F. J., Trugman, A. T., Usoltsev, V. A., Vanderwel, M. C., 
+Waldner, P. , Wedeux, B. M., Wirth, C. , Wöll, H. , Woods, M. , Xiang, W. , 
+Zimmermann, N. E. and Coomes, D. A. (2017), Allometric equations for integrating
+remote sensing imagery into forest monitoring programmes. Glob Change Biol,
+23: 177-190. doi:10.1111/gcb.13388
+
+Copyright for the original data are held by these original authors
+
+
+
+4) 'indomalaya_tropfor_lut.csv'
+
+This was created by Jonathan Williams using the rq_lut funtion in the utils file
+in this repository. This was based on the avaialble dataset which was published 
+by Jucker et al. in their 2017 paper, for which the full details are listed 
+below.
+
+This dataset which was used in creation of some of the data above was the 
+open-source database created by Jucker et al. in their 2017 paper. It has been 
+shared under a CC BY 4.0 license and any sharing of these data here is shared 
+under the same license. Details of the original work are listed below:
+
+Jucker, T. , Caspersen, J. , Chave, J. , Antin, C. , Barbier, N. , Bongers, F. ,
+Dalponte, M. , Ewijk, K. Y., Forrester, D. I., Haeni, M. , Higgins, S. I.,
+Holdaway, R. J., Iida, Y. , Lorimer, C. , Marshall, P. L., Momo, S. , 
+Moncrieff, G. R., Ploton, P. , Poorter, L. , Rahman, K. A., Schlund, M. , 
+Sonké, B. , Sterck, F. J., Trugman, A. T., Usoltsev, V. A., Vanderwel, M. C., 
+Waldner, P. , Wedeux, B. M., Wirth, C. , Wöll, H. , Woods, M. , Xiang, W. , 
+Zimmermann, N. E. and Coomes, D. A. (2017), Allometric equations for integrating
+remote sensing imagery into forest monitoring programmes. Glob Change Biol,
+23: 177-190. doi:10.1111/gcb.13388
+
+Copyright for the original data are held by these original authors

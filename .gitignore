@@ -1,11 +1,8 @@
 .Rhistory
-*.las
 *.mat
 *.csv
 *.asv
 *.asc
-*.txt
-!license.txt
 *.dtm
 *.laz
 *.shp

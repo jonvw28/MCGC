@@ -1,0 +1,26 @@
+Details listed by file:
+
+'fake_trees_2_tight.las'
+
+This was created by Jonathan Williams in 2019 as an artificial example dataset. It can be shared and used by others and is under the same license as the overall repository in which it resides.
+
+'example_pipeline.m'
+
+This was created by Jonathan Williams in 2019 as an example processing pipeline. It can be shared and used by others and is under the same license as the overall repository in which it resides.
+
+'indomalaya_tropfor_HR_95.csv'
+
+This was created by Jonathan Williams using the gen_allom.R file in this repository. This was based on the avaialble dataset which was published by Jucker et al. in their 2017 paper, for which the full details are listed below.
+
+'indomalaya_tropfor_lut.csv'
+
+This was created by Jonathan Williams using the rq_lut funtion in the utils file in this repository. This was based on the avaialble dataset which was published by Jucker et al. in their 2017 paper, for which the full details are listed below.
+
+
+'Jucker et al dataset as listed above'
+
+This dataset which was used in cration of some of the data above was the open-source database created by Jucker et al. in their 2017 paper. It has been shared under a CC BY 4.0 license and any sharing of these data here is shared under the same license. Details of the original work are listed below:
+
+Jucker, T. , Caspersen, J. , Chave, J. , Antin, C. , Barbier, N. , Bongers, F. , Dalponte, M. , Ewijk, K. Y., Forrester, D. I., Haeni, M. , Higgins, S. I., Holdaway, R. J., Iida, Y. , Lorimer, C. , Marshall, P. L., Momo, S. , Moncrieff, G. R., Ploton, P. , Poorter, L. , Rahman, K. A., Schlund, M. , Sonké, B. , Sterck, F. J., Trugman, A. T., Usoltsev, V. A., Vanderwel, M. C., Waldner, P. , Wedeux, B. M., Wirth, C. , Wöll, H. , Woods, M. , Xiang, W. , Zimmermann, N. E. and Coomes, D. A. (2017), Allometric equations for integrating remote sensing imagery into forest monitoring programmes. Glob Change Biol, 23: 177-190. doi:10.1111/gcb.13388
+
+Copyright for the original data are held by these original authors
